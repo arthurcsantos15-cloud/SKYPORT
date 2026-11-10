@@ -1,0 +1,17 @@
+{
+  "name": "skyport",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/test_suite.js",
+    "docs": "node scripts/generate_doc.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "docx": "^9.8.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite3": "^5.1.7"
+  }
+}

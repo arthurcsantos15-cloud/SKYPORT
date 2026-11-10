@@ -1,0 +1,16 @@
+# Dependências
+node_modules/
+
+# Arquivos temporários do Microsoft Word / Office
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
